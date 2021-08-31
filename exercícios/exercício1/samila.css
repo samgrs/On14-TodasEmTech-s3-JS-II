@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(128, 128, 128);
+}
+h1{
+    font-style: italic;
+    color: beige;
+}
+a{
+    color-interpolation-filters: auto;
+}
+h2{
+    margin-inline: 7cm;
+
+}
